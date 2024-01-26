@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabina Askarova</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 - 💬 Ask me about **C#, .Net**
-
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" style="display: inline-block;" data-target="animated-image.originalImage">
-
 - 📫 How to reach me **sabinaaskarova56@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
